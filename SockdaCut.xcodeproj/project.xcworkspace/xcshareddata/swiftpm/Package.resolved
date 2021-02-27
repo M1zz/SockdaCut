@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Mantis",
+        "repositoryURL": "https://github.com/guoyingtao/Mantis",
+        "state": {
+          "branch": null,
+          "revision": "678ff055354e200a1e4f87b991c27196f0f28c9d",
+          "version": "1.4.12"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
